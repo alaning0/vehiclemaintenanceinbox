@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/vehiclemaintenanceinbox/static/css/main.e6c13ad2.css",
+    "main.js": "/vehiclemaintenanceinbox/static/js/main.47fd7050.js",
+    "static/js/488.68655f4f.chunk.js": "/vehiclemaintenanceinbox/static/js/488.68655f4f.chunk.js",
+    "index.html": "/vehiclemaintenanceinbox/index.html",
+    "main.e6c13ad2.css.map": "/vehiclemaintenanceinbox/static/css/main.e6c13ad2.css.map",
+    "main.47fd7050.js.map": "/vehiclemaintenanceinbox/static/js/main.47fd7050.js.map",
+    "488.68655f4f.chunk.js.map": "/vehiclemaintenanceinbox/static/js/488.68655f4f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.47fd7050.js"
+  ]
+}
